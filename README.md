@@ -1,4 +1,15 @@
 # Coding-assignments data structure
+This repository contains my projects and assignments from CIS 263 – Data Structures and Algorithms at Grand Valley State University.
+
+The course focuses on the design, analysis, and implementation of algorithms and data structures, covering:
+
+Core Data Structures → heaps, hash tables, trees, and graphs.
+
+Algorithmic Paradigms → greedy algorithms, divide and conquer, and dynamic programming.
+
+Complexity Theory → analysis of algorithms, problem complexity classes (P, NP, NP-Complete).
+
+Advanced Topics → approximation algorithms, randomized algorithms, and practical data structure implementation.
 **Assignment 1 – Insertion Sort Program**
 Implements the insertion sort algorithm in Python, accepting 8 integers from the user. As each integer is entered, it is inserted into the correct position within a sorted array, and the updated sorted list is displayed after each entry.
 
